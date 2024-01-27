@@ -199,7 +199,7 @@ The final cleaned dataset is shown below.
 
 ### Data Visualization
 
-#### Data Traansformation
+#### Data Transformation
 
 Two columns were added to the dataset to aid the visualization process.
 
